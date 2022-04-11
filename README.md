@@ -1,4 +1,4 @@
-# kurs
+# the_boring_app
 
 A new Flutter project.
 
