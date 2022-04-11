@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
+        showPerformanceOverlay: true,
         title: 'Flutter Demo',
         theme: ThemeData(
           primarySwatch: Colors.blue,
